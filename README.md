@@ -1,5 +1,5 @@
 this is a notepad clone app using corona sdk widgets
-it also uses my own privete ye framework tha simplefies corona sdk use.
+it also uses my own privete ye framework that simplefies corona sdk use.
 the framework is still work in prograss but it is usefum for creating
 gui apps.
 
